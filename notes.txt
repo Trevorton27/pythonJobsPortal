@@ -1,7 +1,5 @@
 to start app, run ".venv/Scripts/activate" from top level of app
 
 run python manage.py migrate to start app
-superusername: spira
-pw: burlDoor66
-reset_password('u','burlDoor66')
+
 
